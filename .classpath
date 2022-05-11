@@ -7,7 +7,7 @@
 	<classpathentry kind="src" path="resources"/>
 	<classpathentry kind="src" path="testdata"/>
 	<classpathentry kind="src" path="librarys"/>
-	<classpathentry kind="lib" path="librarys/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="librarys/selenium-server-standalone-3.141.59.jar" sourcepath="librarys/client-combined-3.141.59-sources.jar"/>
 	<classpathentry kind="lib" path="librarys/testng-6.14.3.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
