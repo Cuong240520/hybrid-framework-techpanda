@@ -1,5 +1,7 @@
+// ENUM>> TẠO RA NHẮM HẠM CHẾ SỰ THAY ĐỔI CỦA CÁC NEW MEMBER
 package commons;
 
-public class BrowserList {
-
+public enum BrowserList {
+     CHROME, FIREFOX, EDGE, IE, SAFARI, OPERA;
+	
 }
