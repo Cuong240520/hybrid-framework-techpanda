@@ -14,6 +14,8 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import pageObject.navigation.FooterPageNavigation;
+
 public class BasePage {
 	/* Web Browser */	
 	public void openPageUrl(WebDriver driver, String pageUrl) {
@@ -303,6 +305,10 @@ public class BasePage {
 	public void waitForElementClickable(WebDriver driver, String sourceLocator) {
 		new WebDriverWait(driver, longTimeOut).until(ExpectedConditions.elementToBeClickable(getByXpath(sourceLocator)));
 	}
+	
+    public FooterPageNavigation getFooterPage(WebDriver driver) {
+    	return new FooterPageNavigation(driver);
+    }
 	
 	private long longTimeOut = 30;
 	public void sleepInSecond (long timeInSecond) {
