@@ -14,7 +14,12 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import pageObject.admin.AdminLoginPageObject;
 import pageObject.navigation.FooterPageNavigation;
+import pageObject.navigation.PageGenerator;
+import pageObject.user.HomePageObject;
+import pageObject.user.UserHomePageObject;
+import pageUIs.admin.AdminPageBaseUI;
 
 public class BasePage {
 	/* Web Browser */	
@@ -310,6 +315,26 @@ public class BasePage {
     	return new FooterPageNavigation(driver);
     }
 	
+    public HomePageObject clickLogoutAdminPage(WebDriver driver) {
+		waitForElementClickable(driver, AdminPageBaseUI.CLICK_lOGOUT_ADMIN_PAGE);
+		clickToElement(driver, AdminPageBaseUI.CLICK_lOGOUT_ADMIN_PAGE);
+		return PageGenerator.getHomePage(driver);
+	}
+    
+    public AdminLoginPageObject openAdminPageUrl(WebDriver driver, String adminUrl) {
+    	openPageUrl(driver, adminUrl );
+    	return PageGenerator.getAdminLoginPage(driver);
+	}
+    
+    public AdminLoginPageObject openUserPageUrl(WebDriver driver, String userUrl) {
+    	openPageUrl(driver, userUrl );
+    	return PageGenerator.getAdminLoginPage(driver);
+	}
+    
+    public UserHomePageObject openUserHomePage(WebDriver driver, String userUrl) {
+    	openPageUrl(driver, userUrl);
+    	return PageGenerator.getUserHomePage(driver);
+    }
 	private long longTimeOut = 30;
 	public void sleepInSecond (long timeInSecond) {
 		try {Thread.sleep(timeInSecond * 1000);

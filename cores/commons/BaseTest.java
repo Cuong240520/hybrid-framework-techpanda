@@ -36,6 +36,28 @@ public class BaseTest {
 		return driver;
 		
 	}
+	protected WebDriver getBrowserDriver(String browserName, String urlValue) {
+		BrowserList browserList = BrowserList.valueOf(browserName.toUpperCase());
+		
+		switch (browserList) {
+		case FIREFOX: // GỌI CÁC BROWSER TỪ ENUM CLASS (BROWSERLIST)
+			driver = WebDriverManager.firefoxdriver().create();
+			break;
+		case CHROME:
+			driver =WebDriverManager.chromedriver().create();
+			break;
+		case EDGE:
+			driver =WebDriverManager.edgedriver().create();
+			break;
+		default:
+			throw new RuntimeException("Invalid Browser");
+		}
+		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
+		expliciptWait = new WebDriverWait(driver, 15);
+		driver.get(urlValue);
+		return driver;
+		
+	}
 	protected int getRandomNumber() {
 		Random rand = new Random();
 		return rand.nextInt(999999);
