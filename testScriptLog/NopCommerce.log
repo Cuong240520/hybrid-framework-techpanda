@@ -1,0 +1,1059 @@
+[INFO ] [2022-08-10 20:13:43,820] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-10 20:13:45,485] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-10 20:13:45,782] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-10 20:13:46,004] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-10 20:13:46,519] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-10 20:13:46,655] Login 1: Step 6 - Verify the error message is showing correctly
+[INFO ] [2022-08-10 20:13:46,839] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-10 20:13:48,181] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-10 20:13:48,326] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-10 20:13:48,453] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-10 20:13:48,793] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-10 20:13:48,819] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-10 20:13:50,082] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-10 20:13:50,214] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-10 20:13:50,351] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-10 20:13:52,060] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-10 20:13:52,078] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-10 20:13:53,331] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-10 20:13:53,440] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-10 20:13:53,533] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-10 20:13:54,263] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-10 20:13:54,290] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-10 20:13:55,534] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-10 20:13:55,633] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-10 20:13:55,706] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-10 20:13:57,248] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-10 20:13:57,266] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-10 20:13:58,524] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-10 20:13:58,624] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-10 20:13:58,710] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-10 20:14:00,363] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-10 20:28:36,894] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-10 20:28:38,025] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-10 20:28:38,141] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-10 20:28:38,239] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-10 20:28:38,604] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-10 20:28:38,835] --------------------Failed-------------------
+[INFO ] [2022-08-10 20:28:38,836] Login 1: Step 6 - Verify the error message is showing correctly
+[INFO ] [2022-08-10 20:28:38,985] --------------------Passed-------------------
+[INFO ] [2022-08-10 20:28:38,993] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-10 20:28:40,833] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-10 20:28:40,990] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-10 20:28:41,153] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-10 20:28:41,580] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-10 20:28:41,656] --------------------Failed-------------------
+[INFO ] [2022-08-10 20:28:41,662] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-10 20:28:42,754] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-10 20:28:42,834] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-10 20:28:42,953] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-10 20:28:44,262] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-10 20:28:44,284] --------------------Passed-------------------
+[INFO ] [2022-08-10 20:28:44,286] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-10 20:28:45,202] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-10 20:28:45,278] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-10 20:28:45,368] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-10 20:28:45,645] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-10 20:28:45,665] --------------------Passed-------------------
+[INFO ] [2022-08-10 20:28:45,667] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-10 20:28:46,591] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-10 20:28:46,688] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-10 20:28:46,785] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-10 20:28:48,035] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-10 20:28:48,062] --------------------Failed-------------------
+[INFO ] [2022-08-10 20:28:48,064] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-10 20:28:48,999] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-10 20:28:49,079] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-10 20:28:49,171] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-10 20:28:50,403] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-13 20:47:23,776] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-13 20:47:24,724] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-13 20:47:25,049] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-13 20:47:25,230] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-13 20:47:25,348] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-13 20:47:25,458] --------------------Failed-------------------
+[INFO ] [2022-08-13 20:47:25,458] Login 1: Step 6 - Verify the error message is showing correctly
+[INFO ] [2022-08-13 20:47:25,561] --------------------Passed-------------------
+[INFO ] [2022-08-13 20:47:25,568] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-13 20:47:26,385] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-13 20:47:26,665] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-13 20:47:26,822] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-13 20:47:26,933] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-13 20:47:26,979] --------------------Failed-------------------
+[INFO ] [2022-08-13 20:47:26,984] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-13 20:47:27,823] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-13 20:47:28,130] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-13 20:47:28,258] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-13 20:47:29,371] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-13 20:47:29,410] --------------------Passed-------------------
+[INFO ] [2022-08-13 20:47:29,412] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-13 20:47:30,386] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-13 20:47:30,703] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-13 20:47:30,844] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-13 20:47:30,931] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-13 20:47:30,973] --------------------Passed-------------------
+[INFO ] [2022-08-13 20:47:30,976] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-13 20:47:31,792] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-13 20:47:32,116] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-13 20:47:32,249] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-13 20:47:33,388] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-13 20:47:33,427] --------------------Failed-------------------
+[INFO ] [2022-08-13 20:47:33,431] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-13 20:47:34,392] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-13 20:47:34,700] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-13 20:47:34,831] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-13 20:47:35,967] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-13 20:47:36,020] --------------------Passed-------------------
+[INFO ] [2022-08-13 20:47:36,020] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-13 20:47:36,175] --------------------Passed-------------------
+[INFO ] [2022-08-13 20:47:45,539] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-13 20:47:47,145] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-13 20:47:47,377] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-13 20:47:47,691] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-13 20:47:48,151] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-13 20:47:48,281] --------------------Failed-------------------
+[INFO ] [2022-08-13 20:47:48,282] Login 1: Step 6 - Verify the error message is showing correctly
+[INFO ] [2022-08-13 20:47:48,515] --------------------Passed-------------------
+[INFO ] [2022-08-13 20:47:48,517] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-13 20:47:49,903] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-13 20:47:50,024] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-13 20:47:50,179] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-13 20:47:50,537] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-13 20:47:50,568] --------------------Failed-------------------
+[INFO ] [2022-08-13 20:47:50,572] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-13 20:47:51,653] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-13 20:47:51,784] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-13 20:47:51,889] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-13 20:47:53,235] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-13 20:47:53,252] --------------------Passed-------------------
+[INFO ] [2022-08-13 20:47:53,254] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-13 20:47:54,187] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-13 20:47:54,266] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-13 20:47:54,373] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-13 20:47:54,689] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-13 20:47:54,716] --------------------Passed-------------------
+[INFO ] [2022-08-13 20:47:54,718] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-13 20:47:55,746] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-13 20:47:55,825] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-13 20:47:55,921] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-13 20:47:57,302] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-13 20:47:57,318] --------------------Failed-------------------
+[INFO ] [2022-08-13 20:47:57,320] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-13 20:47:58,283] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-13 20:47:58,390] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-13 20:47:58,494] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-13 20:47:59,810] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-13 20:47:59,843] --------------------Passed-------------------
+[INFO ] [2022-08-13 20:47:59,843] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-13 20:47:59,876] --------------------Passed-------------------
+[INFO ] [2022-08-13 20:48:19,217] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-13 20:48:20,251] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-13 20:48:20,579] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-13 20:48:20,759] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-13 20:48:20,872] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-13 20:48:20,983] --------------------Failed-------------------
+[INFO ] [2022-08-13 20:48:20,983] Login 1: Step 6 - Verify the error message is showing correctly
+[INFO ] [2022-08-13 20:48:21,089] --------------------Passed-------------------
+[INFO ] [2022-08-13 20:48:21,093] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-13 20:48:21,966] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-13 20:48:22,242] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-13 20:48:22,381] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-13 20:48:22,497] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-13 20:48:22,549] --------------------Failed-------------------
+[INFO ] [2022-08-13 20:48:22,552] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-13 20:48:23,425] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-13 20:48:23,738] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-13 20:48:23,877] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-13 20:48:25,064] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-13 20:48:25,097] --------------------Passed-------------------
+[INFO ] [2022-08-13 20:48:25,098] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-13 20:48:26,272] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-13 20:48:26,576] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-13 20:48:26,708] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-13 20:48:26,806] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-13 20:48:26,856] --------------------Passed-------------------
+[INFO ] [2022-08-13 20:48:26,858] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-13 20:48:27,722] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-13 20:48:28,020] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-13 20:48:28,143] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-13 20:48:28,235] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-13 20:48:58,336] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-13 20:48:59,219] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-13 20:48:59,566] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-13 20:48:59,724] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-13 20:49:00,885] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-13 20:49:00,936] --------------------Passed-------------------
+[INFO ] [2022-08-13 20:49:00,936] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-13 20:49:01,106] --------------------Passed-------------------
+[INFO ] [2022-08-14 10:32:31,036] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-14 10:32:31,915] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-14 10:32:32,145] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-14 10:32:32,275] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-14 10:32:32,373] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-14 10:32:32,452] --------------------Failed-------------------
+[INFO ] [2022-08-14 10:32:32,452] Login 1: Step 6 - Verify the error message is showing correctly
+[INFO ] [2022-08-14 10:32:32,516] --------------------Passed-------------------
+[INFO ] [2022-08-14 10:32:32,519] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-14 10:32:33,293] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-14 10:32:33,529] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-14 10:32:33,652] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-14 10:32:33,742] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-14 10:32:33,783] --------------------Failed-------------------
+[INFO ] [2022-08-14 10:32:33,785] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-14 10:32:34,555] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-14 10:32:34,809] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-14 10:32:34,933] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-14 10:32:36,031] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-14 10:32:36,070] --------------------Passed-------------------
+[INFO ] [2022-08-14 10:32:36,072] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-14 10:32:36,936] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-14 10:32:37,193] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-14 10:32:37,316] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-14 10:32:37,413] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-14 10:32:37,445] --------------------Passed-------------------
+[INFO ] [2022-08-14 10:32:37,448] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-14 10:32:38,212] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-14 10:32:38,449] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-14 10:32:38,579] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-14 10:32:39,648] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-14 10:32:39,670] --------------------Failed-------------------
+[INFO ] [2022-08-14 10:32:39,671] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-14 10:32:40,545] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-14 10:32:40,784] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-14 10:32:40,914] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-14 10:32:41,990] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-14 10:32:42,046] --------------------Passed-------------------
+[INFO ] [2022-08-14 10:32:42,046] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-14 10:32:42,216] --------------------Passed-------------------
+[INFO ] [2022-08-14 10:32:48,560] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-14 10:32:49,872] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-14 10:32:50,023] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-14 10:32:50,211] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-14 10:32:50,533] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-14 10:32:50,744] --------------------Failed-------------------
+[INFO ] [2022-08-14 10:32:50,745] Login 1: Step 6 - Verify the error message is showing correctly
+[INFO ] [2022-08-14 10:32:50,825] --------------------Passed-------------------
+[INFO ] [2022-08-14 10:32:50,830] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-14 10:32:52,264] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-14 10:32:52,366] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-14 10:32:52,458] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-14 10:32:52,775] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-14 10:32:52,800] --------------------Failed-------------------
+[INFO ] [2022-08-14 10:32:52,802] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-14 10:32:53,703] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-14 10:32:53,778] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-14 10:32:53,869] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-14 10:32:55,033] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-14 10:32:55,047] --------------------Passed-------------------
+[INFO ] [2022-08-14 10:32:55,048] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-14 10:32:56,127] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-14 10:32:56,219] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-14 10:32:56,303] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-14 10:32:56,582] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-14 10:32:56,596] --------------------Passed-------------------
+[INFO ] [2022-08-14 10:32:56,597] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-14 10:32:57,445] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-14 10:32:57,536] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-14 10:32:57,625] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-14 10:32:58,784] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-14 10:32:58,811] --------------------Failed-------------------
+[INFO ] [2022-08-14 10:32:58,812] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-14 10:32:59,665] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-14 10:32:59,766] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-14 10:32:59,843] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-14 10:33:01,065] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-14 10:33:01,107] --------------------Passed-------------------
+[INFO ] [2022-08-14 10:33:01,107] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-14 10:33:01,162] --------------------Passed-------------------
+[INFO ] [2022-08-14 10:33:07,252] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-14 10:33:08,230] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-14 10:33:08,482] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-14 10:33:08,589] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-14 10:33:08,675] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-14 10:33:08,755] --------------------Failed-------------------
+[INFO ] [2022-08-14 10:33:08,755] Login 1: Step 6 - Verify the error message is showing correctly
+[INFO ] [2022-08-14 10:33:08,814] --------------------Passed-------------------
+[INFO ] [2022-08-14 10:33:08,815] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-14 10:33:09,630] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-14 10:33:09,908] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-14 10:33:10,028] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-14 10:33:10,123] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-14 10:33:10,168] --------------------Failed-------------------
+[INFO ] [2022-08-14 10:33:10,171] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-14 10:33:10,998] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-14 10:33:11,272] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-14 10:33:11,391] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-14 10:33:12,524] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-14 10:33:12,557] --------------------Passed-------------------
+[INFO ] [2022-08-14 10:33:12,559] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-14 10:33:13,526] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-14 10:33:13,800] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-14 10:33:13,916] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-14 10:33:14,015] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-14 10:33:14,058] --------------------Passed-------------------
+[INFO ] [2022-08-14 10:33:14,060] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-14 10:33:15,040] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-14 10:33:15,315] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-14 10:33:15,437] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-14 10:33:15,528] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-14 10:33:45,615] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-14 10:33:46,487] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-14 10:33:46,767] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-14 10:33:46,886] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-14 10:33:47,998] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-14 10:33:48,022] --------------------Passed-------------------
+[INFO ] [2022-08-14 10:33:48,022] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-14 10:33:48,053] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:21:34,576] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:21:35,582] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-16 16:21:35,907] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-16 16:21:36,081] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:21:36,200] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:21:36,306] --------------------Failed-------------------
+[INFO ] [2022-08-16 16:21:36,306] Login 1: Step 6 - Verify the error message is showing correctly
+[INFO ] [2022-08-16 16:21:36,398] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:21:36,722] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:21:37,599] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:21:37,924] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:21:38,086] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:21:38,189] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:21:38,230] --------------------Failed-------------------
+[INFO ] [2022-08-16 16:21:38,438] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:21:39,342] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:21:39,689] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:21:39,835] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:21:41,073] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:21:41,113] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:21:41,117] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:21:42,078] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:21:42,394] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:21:42,550] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:21:42,684] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:21:42,724] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:21:42,728] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:21:43,618] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:21:43,939] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:21:44,086] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:21:44,206] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:22:14,503] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:22:15,709] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:22:15,899] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:22:16,235] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:22:17,447] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:22:17,490] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:22:17,490] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:22:17,667] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:22:26,334] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:22:28,112] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-16 16:22:28,268] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-16 16:22:28,597] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:22:29,165] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:22:29,498] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:22:31,035] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:22:31,224] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:22:31,336] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:22:31,690] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:22:31,862] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:22:33,040] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:22:33,187] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:22:33,297] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:22:34,643] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:22:34,666] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:22:35,592] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:22:35,683] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:22:35,766] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:22:36,087] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:22:36,104] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:22:37,008] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:22:37,120] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:22:37,221] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:22:38,508] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:22:38,610] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:22:39,591] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:22:39,720] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:22:39,824] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:22:41,165] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:22:41,207] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:22:41,207] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:22:41,260] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:22:50,029] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:22:51,276] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-16 16:22:51,599] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-16 16:22:51,756] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:22:51,876] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:22:51,971] --------------------Failed-------------------
+[INFO ] [2022-08-16 16:22:51,971] Login 1: Step 6 - Verify the error message is showing correctly
+[INFO ] [2022-08-16 16:22:52,076] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:22:52,285] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:22:53,162] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:22:53,463] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:22:53,605] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:22:53,705] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:22:53,746] --------------------Failed-------------------
+[INFO ] [2022-08-16 16:22:53,898] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:22:54,829] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:22:55,140] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:22:55,293] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:22:56,574] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:22:56,610] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:22:56,612] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:22:57,678] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:22:57,985] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:22:58,131] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:22:58,230] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:22:58,284] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:22:58,286] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:22:59,210] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:22:59,528] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:22:59,668] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:23:00,923] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:23:00,951] --------------------Failed-------------------
+[INFO ] [2022-08-16 16:23:01,147] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:23:02,053] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:23:02,350] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:23:02,475] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:23:03,691] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:23:03,722] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:23:03,722] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:23:03,751] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:25:51,719] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:25:52,515] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-16 16:25:52,870] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-16 16:25:53,045] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:25:53,168] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:25:53,847] --------------------Failed-------------------
+[INFO ] [2022-08-16 16:25:53,847] Login 1: Step 6 - Verify the error message is showing correctly
+[INFO ] [2022-08-16 16:25:53,933] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:25:54,385] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:25:55,481] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:25:55,787] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:25:55,947] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:25:56,114] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:25:56,153] --------------------Failed-------------------
+[INFO ] [2022-08-16 16:25:56,319] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:25:57,201] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:25:57,547] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:25:57,701] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:25:58,866] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:25:58,911] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:25:58,913] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:25:59,978] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:26:00,315] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:26:00,477] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:26:00,580] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:26:00,625] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:26:00,628] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:26:01,511] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:26:01,843] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:26:02,008] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:26:02,114] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:26:32,459] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:26:33,635] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:26:33,840] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:26:34,185] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:26:35,379] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:26:35,422] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:26:35,423] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:26:35,580] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:27:51,330] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:27:52,282] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-16 16:27:52,603] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-16 16:27:52,784] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:27:52,913] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:27:53,020] --------------------Failed-------------------
+[INFO ] [2022-08-16 16:27:53,020] Login 1: Step 6 - Verify the error message is showing correctly
+[INFO ] [2022-08-16 16:27:53,113] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:27:53,330] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:27:54,122] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:27:54,447] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:27:54,573] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:27:54,677] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:27:54,717] --------------------Failed-------------------
+[INFO ] [2022-08-16 16:27:54,901] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:27:55,766] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:27:56,053] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:27:56,199] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:27:57,356] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:27:57,398] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:27:57,400] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:27:58,411] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:27:58,699] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:27:58,850] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:27:58,962] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:27:59,011] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:27:59,013] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:27:59,834] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:28:00,125] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:28:00,281] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:28:01,402] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:28:01,433] --------------------Failed-------------------
+[INFO ] [2022-08-16 16:28:01,643] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:28:02,495] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:28:02,802] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:28:02,952] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:28:04,332] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:28:04,403] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:28:04,403] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:28:04,601] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:28:11,492] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:28:12,628] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-16 16:28:12,744] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-16 16:28:12,845] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:28:13,214] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:28:13,753] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:28:15,364] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:28:15,497] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:28:15,658] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:28:16,047] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:28:16,294] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:28:17,511] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:28:17,659] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:28:17,812] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:28:19,272] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:28:19,293] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:28:20,327] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:28:20,450] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:28:20,557] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:28:20,895] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:28:20,951] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:28:21,920] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:28:22,028] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:28:22,131] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:28:23,487] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:28:23,603] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:28:24,704] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:28:24,811] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:28:24,928] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:28:26,392] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:28:26,432] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:28:26,432] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:28:26,508] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:32:12,619] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:32:13,584] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-16 16:32:13,885] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-16 16:32:14,076] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:32:14,175] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:32:14,281] --------------------Failed-------------------
+[INFO ] [2022-08-16 16:32:14,282] Login 1: Step 6 - Verify the error message is showing correctly
+[INFO ] [2022-08-16 16:32:14,376] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:32:14,578] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:32:15,734] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:32:16,039] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:32:16,167] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:32:16,272] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:32:16,310] --------------------Failed-------------------
+[INFO ] [2022-08-16 16:32:16,483] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:32:17,841] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:32:18,156] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:32:18,300] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:32:19,454] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:32:19,490] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:32:19,492] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:32:20,452] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:32:20,758] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:32:20,900] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:32:20,998] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:32:21,036] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:32:21,039] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:32:21,891] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:32:22,177] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:32:22,324] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:32:23,467] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:32:23,499] --------------------Failed-------------------
+[INFO ] [2022-08-16 16:32:23,682] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:32:24,523] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:32:24,806] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:32:24,972] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:32:26,555] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:32:26,607] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:32:26,607] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:32:26,767] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:32:33,554] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:32:34,652] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-16 16:32:34,802] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-16 16:32:35,195] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:32:35,749] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:32:36,135] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:32:37,409] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:32:37,599] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:32:37,801] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:32:38,172] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:32:38,339] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:32:39,471] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:32:39,598] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:32:39,702] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:32:41,152] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:32:41,182] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:32:42,254] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:32:42,343] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:32:42,435] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:32:42,735] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:32:42,749] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:32:43,878] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:32:43,968] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:32:44,092] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:32:45,478] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:32:45,590] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:32:46,750] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:32:46,844] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:32:46,964] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:32:48,625] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:32:48,669] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:32:48,669] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:32:48,705] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:40:13,941] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:40:14,899] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-16 16:40:15,210] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-16 16:40:15,389] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:40:15,505] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:40:15,611] --------------------Failed-------------------
+[INFO ] [2022-08-16 16:40:15,611] Login 1: Step 6 - Verify the error message is showing correctly
+[INFO ] [2022-08-16 16:40:15,721] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:40:15,923] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:40:16,758] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:40:17,065] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:40:17,214] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:40:17,352] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:40:17,401] --------------------Failed-------------------
+[INFO ] [2022-08-16 16:40:17,572] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:40:18,391] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:40:18,690] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:40:18,846] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:40:19,988] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:40:20,029] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:40:20,032] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:40:20,966] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:40:21,277] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:40:21,430] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:40:21,552] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:40:21,591] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:40:21,593] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:40:22,415] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:40:22,714] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:40:22,881] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:40:24,063] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:40:24,096] --------------------Failed-------------------
+[INFO ] [2022-08-16 16:40:24,310] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:40:25,129] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:40:25,446] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:40:25,597] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:40:26,774] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:40:26,827] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:40:26,827] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:40:26,986] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:40:33,875] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:40:35,245] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-16 16:40:35,533] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-16 16:40:35,826] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:40:36,314] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:40:36,665] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:40:38,088] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:40:38,328] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:40:38,478] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:40:38,891] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:40:39,153] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:40:41,019] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:40:41,183] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:40:41,293] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:40:42,673] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:40:42,693] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:40:43,761] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:40:43,873] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:40:43,970] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:40:44,286] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:40:44,302] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:40:45,309] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:40:45,414] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:40:45,500] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:40:46,847] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:40:46,943] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:40:48,002] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:40:48,112] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:40:48,232] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:40:49,583] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:40:49,627] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:40:49,627] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:40:49,684] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:58:35,412] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:58:36,392] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-16 16:58:36,730] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-16 16:58:36,887] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:58:37,012] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:58:37,118] --------------------Failed-------------------
+[INFO ] [2022-08-16 16:58:37,118] Login 1: Step 6 - Verify the error message is showing correctly
+[INFO ] [2022-08-16 16:58:37,235] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:58:37,459] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:58:38,253] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:58:38,540] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:58:38,706] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:58:38,805] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:58:38,850] --------------------Failed-------------------
+[INFO ] [2022-08-16 16:58:39,010] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:58:39,857] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:58:40,143] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:58:40,274] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:58:41,411] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:58:41,453] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:58:41,455] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:58:42,427] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:58:42,723] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:58:42,872] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:58:42,977] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:58:43,022] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:58:43,024] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:58:43,841] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:58:44,157] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:58:44,307] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:58:45,477] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:58:45,518] --------------------Failed-------------------
+[INFO ] [2022-08-16 16:58:45,751] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:58:46,561] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:58:46,866] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:58:47,001] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:58:48,127] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:58:48,196] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:58:48,197] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:58:48,359] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:58:56,418] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:58:57,822] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-16 16:58:57,966] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-16 16:58:58,222] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:58:58,566] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:58:58,835] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:59:00,168] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:59:00,301] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:59:00,416] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:59:00,728] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:59:00,840] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:59:01,913] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:59:02,014] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:59:02,117] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:59:03,531] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:59:03,550] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:59:04,617] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:59:04,721] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:59:04,833] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:59:05,144] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:59:05,163] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:59:06,224] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:59:06,317] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:59:06,442] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:59:07,814] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:59:07,921] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 16:59:08,997] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 16:59:09,084] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 16:59:09,207] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-16 16:59:10,650] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:59:10,700] --------------------Passed-------------------
+[INFO ] [2022-08-16 16:59:10,700] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 16:59:10,759] --------------------Passed-------------------
+[INFO ] [2022-08-16 17:03:30,299] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:03:31,199] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-16 17:03:31,470] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-16 17:03:31,584] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:03:31,678] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:03:31,766] --------------------Failed-------------------
+[INFO ] [2022-08-16 17:03:31,766] Login 1: Step 6 - Verify the error message is showing correctly
+[INFO ] [2022-08-16 17:03:31,846] --------------------Passed-------------------
+[INFO ] [2022-08-16 17:03:32,050] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:03:32,840] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 17:03:33,088] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 17:03:33,235] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:03:33,333] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:03:33,373] --------------------Failed-------------------
+[INFO ] [2022-08-16 17:03:33,551] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:03:34,337] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 17:03:34,614] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 17:03:34,733] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:03:35,823] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:03:35,850] --------------------Passed-------------------
+[INFO ] [2022-08-16 17:03:35,852] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:03:36,752] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 17:03:36,996] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 17:03:37,119] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:03:37,212] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:03:37,250] --------------------Passed-------------------
+[INFO ] [2022-08-16 17:03:37,251] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:03:38,054] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 17:03:38,301] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 17:03:38,429] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:03:39,964] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:03:39,986] --------------------Failed-------------------
+[INFO ] [2022-08-16 17:03:40,191] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:03:40,985] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 17:03:41,236] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 17:03:41,364] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:03:42,965] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:03:43,003] --------------------Passed-------------------
+[INFO ] [2022-08-16 17:03:43,004] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:03:43,163] --------------------Passed-------------------
+[INFO ] [2022-08-16 17:03:49,781] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:03:50,816] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-16 17:03:50,888] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-16 17:03:50,969] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:03:51,273] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:03:51,469] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:03:52,527] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 17:03:52,627] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 17:03:52,710] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:03:52,996] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:03:53,091] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:03:54,047] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 17:03:54,142] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 17:03:54,238] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:03:55,471] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:03:55,488] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:03:56,411] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 17:03:56,491] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 17:03:56,580] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:03:56,874] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:03:56,892] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:03:57,790] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 17:03:57,882] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 17:03:57,962] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:03:59,179] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:03:59,304] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:04:00,288] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 17:04:00,399] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 17:04:00,524] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:04:02,186] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:04:02,216] --------------------Passed-------------------
+[INFO ] [2022-08-16 17:04:02,216] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:04:02,247] --------------------Passed-------------------
+[INFO ] [2022-08-16 17:13:41,032] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:13:42,015] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-16 17:13:42,254] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-16 17:13:42,374] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:13:42,491] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:13:42,587] --------------------Failed-------------------
+[INFO ] [2022-08-16 17:13:42,587] Login 1: Step 6 - Verify the error message is showing correctly
+[INFO ] [2022-08-16 17:13:42,674] --------------------Passed-------------------
+[INFO ] [2022-08-16 17:13:42,864] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:13:43,666] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 17:13:43,909] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 17:13:44,036] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:13:44,129] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:13:44,170] --------------------Failed-------------------
+[INFO ] [2022-08-16 17:13:44,330] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:13:45,216] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 17:13:45,473] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 17:13:45,601] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:13:46,751] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:13:46,781] --------------------Passed-------------------
+[INFO ] [2022-08-16 17:13:46,783] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:13:47,871] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 17:13:48,121] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 17:13:48,245] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:13:48,338] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:13:48,375] --------------------Passed-------------------
+[INFO ] [2022-08-16 17:13:48,379] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:13:49,202] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 17:13:49,437] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 17:13:49,552] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:13:49,647] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:14:19,864] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:14:20,763] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 17:14:21,018] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 17:14:21,144] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:14:23,766] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:14:23,793] --------------------Passed-------------------
+[INFO ] [2022-08-16 17:14:23,793] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:14:23,837] --------------------Passed-------------------
+[INFO ] [2022-08-16 17:14:31,210] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:14:32,270] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-16 17:14:32,353] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-16 17:14:32,438] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:14:32,952] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:14:33,337] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:14:34,488] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 17:14:34,611] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 17:14:34,713] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:14:35,036] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:14:35,146] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:14:36,119] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 17:14:36,201] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 17:14:36,295] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:14:37,510] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:14:37,538] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:14:38,445] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 17:14:38,526] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 17:14:38,617] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:14:38,915] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:14:38,928] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:14:39,819] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 17:14:39,898] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 17:14:39,992] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:14:41,331] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:14:41,405] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 17:14:42,429] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 17:14:42,543] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 17:14:42,659] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-16 17:14:43,917] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:14:43,954] --------------------Passed-------------------
+[INFO ] [2022-08-16 17:14:43,954] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 17:14:44,001] --------------------Passed-------------------
+[INFO ] [2022-08-16 21:12:25,616] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:12:27,039] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-16 21:12:27,361] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-16 21:12:27,521] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:12:27,680] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:12:27,770] --------------------Failed-------------------
+[INFO ] [2022-08-16 21:12:27,770] Login 1: Step 6 - Verify the error message is showing correctly
+[INFO ] [2022-08-16 21:12:27,872] --------------------Passed-------------------
+[INFO ] [2022-08-16 21:12:28,088] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:12:29,009] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 21:12:29,288] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 21:12:29,437] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:12:29,545] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:12:29,590] --------------------Failed-------------------
+[INFO ] [2022-08-16 21:12:29,745] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:12:30,743] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 21:12:31,052] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 21:12:31,187] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:12:34,159] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:12:34,203] --------------------Passed-------------------
+[INFO ] [2022-08-16 21:12:34,205] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:12:35,187] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 21:12:35,464] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 21:12:35,604] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:12:35,717] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:12:35,762] --------------------Passed-------------------
+[INFO ] [2022-08-16 21:12:35,765] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:12:36,587] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 21:12:36,904] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 21:12:37,053] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:12:38,185] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:12:38,219] --------------------Failed-------------------
+[INFO ] [2022-08-16 21:12:38,421] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:12:39,220] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 21:12:39,550] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 21:12:39,688] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:12:40,854] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:12:40,910] --------------------Passed-------------------
+[INFO ] [2022-08-16 21:12:40,910] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:12:40,940] --------------------Passed-------------------
+[INFO ] [2022-08-16 21:12:49,169] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:12:50,368] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-16 21:12:50,697] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-16 21:12:51,001] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:12:51,505] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:12:51,837] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:12:53,992] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 21:12:54,333] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 21:12:54,577] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:12:55,000] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:12:55,197] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:12:56,634] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 21:12:56,766] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 21:12:56,879] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:12:58,246] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:12:58,287] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:12:59,335] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 21:12:59,444] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 21:12:59,550] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:12:59,853] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:12:59,878] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:13:00,803] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 21:13:00,903] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 21:13:00,985] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:13:02,241] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:13:02,335] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:13:03,358] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 21:13:03,469] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 21:13:03,561] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:13:04,887] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:13:04,922] --------------------Passed-------------------
+[INFO ] [2022-08-16 21:13:04,922] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:13:04,950] --------------------Passed-------------------
+[INFO ] [2022-08-16 21:17:15,375] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:17:16,592] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-16 21:17:16,916] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-16 21:17:17,092] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:17:17,228] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:17:17,338] --------------------Failed-------------------
+[INFO ] [2022-08-16 21:17:17,338] Login 1: Step 6 - Verify the error message is showing correctly
+[INFO ] [2022-08-16 21:17:17,423] --------------------Passed-------------------
+[INFO ] [2022-08-16 21:17:17,615] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:17:18,766] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 21:17:19,043] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 21:17:19,183] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:17:19,284] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:17:19,350] --------------------Failed-------------------
+[INFO ] [2022-08-16 21:17:19,563] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:17:20,467] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 21:17:20,751] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 21:17:20,891] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:17:22,166] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:17:22,205] --------------------Passed-------------------
+[INFO ] [2022-08-16 21:17:22,207] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:17:23,209] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 21:17:23,529] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 21:17:23,679] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:17:23,780] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:17:23,819] --------------------Passed-------------------
+[INFO ] [2022-08-16 21:17:23,822] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:17:24,714] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 21:17:25,017] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 21:17:25,173] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:17:25,315] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:17:55,530] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:17:56,708] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 21:17:56,906] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 21:17:57,223] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:17:58,456] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:17:58,492] --------------------Passed-------------------
+[INFO ] [2022-08-16 21:17:58,492] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:17:58,663] --------------------Passed-------------------
+[INFO ] [2022-08-16 21:18:07,471] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:18:08,617] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-16 21:18:08,731] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-16 21:18:09,000] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:18:09,577] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:18:09,983] Login 2: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:18:12,092] Login 2: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 21:18:12,960] Login 2: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 21:18:13,332] Login 2: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:18:13,748] Login 2: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:18:13,912] Login 3: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:18:15,249] Login 3: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 21:18:15,357] Login 3: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 21:18:15,467] Login 3: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:18:16,893] Login 3: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:18:16,909] Login 4: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:18:17,982] Login 4: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 21:18:18,105] Login 4: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 21:18:18,217] Login 4: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:18:18,518] Login 4: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:18:18,565] Login 5: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:18:19,508] Login 5: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 21:18:19,607] Login 5: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 21:18:19,706] Login 5: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:18:21,142] Login 5: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:18:21,235] Login 6: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-16 21:18:22,434] Login 6: Step 2 - Input to Email Textbox  
+[INFO ] [2022-08-16 21:18:22,520] Login 6: Step 3 - Input to Password Textbox  
+[INFO ] [2022-08-16 21:18:22,643] Login 6: Step 4 - Click to login button 
+[INFO ] [2022-08-16 21:18:24,308] Login 6: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:18:24,341] --------------------Passed-------------------
+[INFO ] [2022-08-16 21:18:24,341] Login 6: Step 6 - Verify the error message is showing correctly 
+[INFO ] [2022-08-16 21:18:24,373] --------------------Passed-------------------
+[INFO ] [2022-08-18 14:03:45,542] Login 1: Step 1 - Click to MyAccount Link 
+[INFO ] [2022-08-18 14:03:46,514] Login 1: Step 2 - Input to Email Textbox 
+[INFO ] [2022-08-18 14:03:46,803] Login 1: Step 3 - Input to Password Textbox 
+[INFO ] [2022-08-18 14:03:46,951] Login 1: Step 4 - Click to login button 
+[INFO ] [2022-08-18 14:03:47,071] Login 1: Step 5 - Verify the error message is showing correctly 
+[INFO ] [2022-08-18 14:03:47,164] --------------------Failed-------------------
+[INFO ] [2022-08-18 14:03:47,164] Login 1: Step 6 - Verify the error message is showing correctly
+[INFO ] [2022-08-18 14:03:47,265] --------------------Passed-------------------
+[INFO ] [2022-08-18 14:10:17,342] --------------------Passed-------------------
+[INFO ] [2022-08-18 14:10:17,372] --------------------Passed-------------------
+[INFO ] [2022-08-18 14:11:04,510] --------------------Passed-------------------
+[INFO ] [2022-08-18 14:11:04,539] --------------------Passed-------------------
+[INFO ] [2022-08-18 21:33:39,892] --------------------Passed-------------------
+[INFO ] [2022-08-18 21:33:39,925] --------------------Passed-------------------
+[INFO ] [2022-08-20 16:18:08,935] --------------------Passed-------------------
+[INFO ] [2022-08-20 16:18:08,977] --------------------Passed-------------------
+[INFO ] [2022-08-20 16:44:37,216] --------------------Passed-------------------
+[INFO ] [2022-08-20 16:44:37,294] --------------------Passed-------------------
+[INFO ] [2022-08-20 21:07:35,504] --------------------Passed-------------------
+[INFO ] [2022-08-20 21:07:35,536] --------------------Passed-------------------

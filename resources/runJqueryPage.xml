@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Jquery Page">
+      <parameter name = "Url" value = "https://blueimp.github.io/jQuery-File-Upload/"/>
+    <listeners>
+          <listener class-name = "commons.MethodListener"/>
+          <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    </listeners>
+	<test name="Run on FirefoxBrowser">
+		<parameter name="browser" value= "firefox" />
+		<classes>
+			<class name="com.techpanda.jquery.Level_13_UploadFile" />
+		</classes>
+	</test>
+
+
+
+</suite> <!-- Suite -->
