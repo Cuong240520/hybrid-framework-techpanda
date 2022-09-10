@@ -5,11 +5,11 @@ package commons;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.WebDriver;
+
 import org.testng.Assert;
 import org.testng.Reporter;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseTest {
@@ -26,7 +26,11 @@ public class BaseTest {
 
 		switch (browserList) {
 		case FIREFOX: // GỌI CÁC BROWSER TỪ ENUM CLASS (BROWSERLIST)
+			// Cách mới
 			driver = WebDriverManager.firefoxdriver().create();
+			//Cách cũ 
+//			WebDriverManager.chromedriver().setup();
+//			driver = new ChromeDriver();
 			break;
 		case CHROME:
 			driver = WebDriverManager.chromedriver().create();

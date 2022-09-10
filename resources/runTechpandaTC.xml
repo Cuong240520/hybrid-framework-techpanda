@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Tech Panda Page">
+	
+	<test name="Run on FirefoxBrowser">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.techpanda.account.Level_19_Pattern_Object" />
+		</classes>
+	</test>
+	
+
+
+
+</suite> <!-- Suite -->

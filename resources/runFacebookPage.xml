@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite parallel="false" name="Jquery Page">
-      <parameter name = "Url" value = "https://blueimp.github.io/jQuery-File-Upload/"/>
+<suite parallel="false" name="facecbook Page">
+      <parameter name = "Url" value = "https://web.facebook.com/"/>
     <listeners>
           <listener class-name = "commons.MethodListener"/>
           <listener class-name="org.uncommons.reportng.HTMLReporter"/>
     </listeners>
-	<test name="Run on FirefoxBrowser">
+	<test name="Run on ChromeBrowser">
 		<parameter name="browser" value= "chrome" />
 		<classes>
-			<class name="com.techpanda.jquery.Level_13_UploadFile" />
+			<class name="com.facebook.Level_19_Element_Undisplayed" />
 		</classes>
 	</test>
 

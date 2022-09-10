@@ -13,8 +13,6 @@ public class HomePageObjectJquery extends BasePage{
     WebDriver driver;
     public HomePageObjectJquery(WebDriver driver) {
     	this.driver= driver;
-    	
-    	
     }
 	public void inputToFemales(String headerName, String senkeyValue) {
 		waitForElementVisible(driver, HomePageUIJquery.HEADER_NAME_TEXTBOX, headerName);

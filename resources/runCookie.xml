@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Cookie Demo">
+
+	<test name="Run on ChromeBrowser">
+		<parameter name="browser" value= "chrome" />
+		<classes>
+			<class name="com.LoginCookie.Techpanda.Login_Cookie" />
+			<class name="com.LoginCookie.Techpanda.Level_21_Cookie"/>
+		</classes>
+	</test>
+
+
+</suite> <!-- Suite -->
